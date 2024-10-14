@@ -2,9 +2,9 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/71/f0/ae/71f0aefa2b216db8aa335b4744099e6b.jpg"/>
 
-<h2> / about me /</h2>
+<h2> / About me /</h2>
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
@@ -41,6 +41,4 @@
   </div>
 
 ------
-Credit: [zillastar](https://github.com/zillastar)
-
-Last Edited on: 12/11/2022
+Franco Javier Morales
